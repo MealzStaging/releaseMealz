@@ -12,8 +12,8 @@
                 <!-- Automatically generated dependencies -->
                 
                     <dependency>
-                      <groupId>ai.mealz.core</groupId>
-                      <artifactId>mealzcore</artifactId>
+                      <groupId>ai.mealz</groupId>
+                      <artifactId>mealzcore-release</artifactId>
                       <version>0.0.21</version>
                       <scope>api</scope>
                     </dependency>
