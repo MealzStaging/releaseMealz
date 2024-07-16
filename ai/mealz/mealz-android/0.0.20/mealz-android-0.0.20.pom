@@ -12,9 +12,9 @@
                 <!-- Automatically generated dependencies -->
                 
                     <dependency>
-                      <groupId>ai.mealz.core</groupId>
-                      <artifactId>mealzcore</artifactId>
-                      <version>null</version>
+                      <groupId>ai.mealz</groupId>
+                      <artifactId>mealzcore-release</artifactId>
+                      <version>0.0.20</version>
                       <scope>api</scope>
                     </dependency>
                     
