@@ -14,7 +14,7 @@
                     <dependency>
                       <groupId>ai.mealz.core</groupId>
                       <artifactId>mealzcore</artifactId>
-                      <version>null</version>
+                      <version>0.0.19</version>
                       <scope>api</scope>
                     </dependency>
                     
