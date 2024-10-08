@@ -10,18 +10,6 @@
   <groupId>ai.mealz.analytics</groupId>
   <artifactId>mealz-shared-analytics</artifactId>
   <version>1.0.0</version>
-  <name>mealz-shared-analytics</name>
-  <description>Share analytics between Mealz projects</description>
-  <licenses>
-    <license>
-      <name>GNU GPLv3</name>
-      <url>https://www.gnu.org/licenses/</url>
-    </license>
-  </licenses>
-  <developers>
-    <developer />
-  </developers>
-  <scm />
   <dependencies>
     <dependency>
       <groupId>org.jetbrains.kotlin</groupId>
