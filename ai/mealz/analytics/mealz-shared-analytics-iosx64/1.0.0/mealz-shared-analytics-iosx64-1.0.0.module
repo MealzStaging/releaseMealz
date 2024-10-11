@@ -30,21 +30,21 @@
           "group": "io.ktor",
           "module": "ktor-client-darwin",
           "version": {
-            "requires": "2.3.9"
+            "requires": "2.3.10"
           }
         },
         {
           "group": "io.ktor",
           "module": "ktor-client-core",
           "version": {
-            "requires": "2.3.9"
+            "requires": "2.3.10"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "2.0.0"
+            "requires": "2.0.10"
           }
         }
       ],
@@ -52,11 +52,11 @@
         {
           "name": "mealz-shared-analytics.klib",
           "url": "mealz-shared-analytics-iosx64-1.0.0.klib",
-          "size": 53462,
-          "sha512": "d1c4f42c87af67354634aabf3986670c0f1e264996272c1b6f4b02865e42313733308b4c2ae5d98cca650c81c354a7dab35f0f816f709c965d9e7023e42db35a",
-          "sha256": "149da74de75f0b770f5f9b640dcad92b02d93a83eae15327cba1c7be9c11e196",
-          "sha1": "8de8b1969dc51fbf1d28d101072116a276239f14",
-          "md5": "c9a118d38bee76bd76a086402d62a1b5"
+          "size": 54641,
+          "sha512": "b02f4bed21902690f38339d158b2a4c49d2e2625b46f80faf042c495f500dddeb5436b92fdb3fb97ca4c4861b919ae253558fc8ccc6da18de0d5817a836ea896",
+          "sha256": "a8f0a4dedf407c4c9db6a1e0bd65694fda2a2b4782f9972f8c7a8b6df5cfaa11",
+          "sha1": "8b3ae9f88cec9e22d922592f2b16b41185877a47",
+          "md5": "9892f1a6746be3d6d6bbc98345b66b70"
         }
       ]
     },
@@ -75,21 +75,21 @@
           "group": "io.ktor",
           "module": "ktor-client-darwin",
           "version": {
-            "requires": "2.3.9"
+            "requires": "2.3.10"
           }
         },
         {
           "group": "io.ktor",
           "module": "ktor-client-core",
           "version": {
-            "requires": "2.3.9"
+            "requires": "2.3.10"
           }
         },
         {
           "group": "org.jetbrains.kotlin",
           "module": "kotlin-stdlib",
           "version": {
-            "requires": "2.0.0"
+            "requires": "2.0.10"
           }
         }
       ],
@@ -97,11 +97,11 @@
         {
           "name": "mealz-shared-analytics-iosx64-1.0.0-metadata.jar",
           "url": "mealz-shared-analytics-iosx64-1.0.0-metadata.jar",
-          "size": 3242,
-          "sha512": "1d9b08c9a7f33f9ddac5c2d16efdc5c83f0371bdb95487c49bbaff0b061d50510b4a657724e3009bf7672511eff342e44205b112d96bdb4c77da1de7c82c9090",
-          "sha256": "4aab249e1c2a4a00d823b8ba7d3b20f20cf403411ecb4c7eee8f350f583f87c5",
-          "sha1": "22125a00fb0f28e24ec05c63363dfb75d5a87c66",
-          "md5": "3f08c8f3c8b8571e382ccae0c01815b3"
+          "size": 3220,
+          "sha512": "7a86b8dd5401b908ebefb2a03a7e7e266830d98f2265f2fd656d53b9c0cbf97e7c1cda2667182931e1fe8a951444ad6a170a6273698977c501fec208b08ed631",
+          "sha256": "7e3b204c9827d0452ae598264cb2cc721f32d7f168a547c951798d40f80605bd",
+          "sha1": "97ef251313b5eb360b7a8f7fbdf6a721499de336",
+          "md5": "85535eeff502f6ef784c707d959e9f4f"
         }
       ]
     }
