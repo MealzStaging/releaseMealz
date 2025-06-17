@@ -58,11 +58,11 @@
         {
           "name": "mealz-shared-analytics-debug.aar",
           "url": "mealz-shared-analytics-android-debug-4.3.1.aar",
-          "size": 47732,
-          "sha512": "423b9ec812281e322a93a8c612f769d33eaf01968e300c72a02a3d227992f186d5132f333aba9fb23302193370c7d4ea0cd180de88a6c7285637a6d2b621531d",
-          "sha256": "4541ba4efcc5abaabb3e4418b65d74785663075bce2c630e0f544e2609307628",
-          "sha1": "bb893694d397b64e2e89bac28e66beb5744a0840",
-          "md5": "22f45a2ecee7c9843247bc9beb807b30"
+          "size": 47812,
+          "sha512": "12ec5338c6a8929092573f6161f20974e77a451763d2b6fced40911a9be5f138451d5a77edf473e1f4503df2a6eb4f19facc7b1d84f12f436156fa571731c9d5",
+          "sha256": "1a5f0c486666883e931c5aa1d6cd6fdac48201efcae1c73c5b1966a2009be372",
+          "sha1": "ae5477796be134049c823c221bf452248c91540b",
+          "md5": "bac3b28616493d78453ae6228cbaace2"
         }
       ]
     },
@@ -165,11 +165,11 @@
         {
           "name": "mealz-shared-analytics-debug.aar",
           "url": "mealz-shared-analytics-android-debug-4.3.1.aar",
-          "size": 47732,
-          "sha512": "423b9ec812281e322a93a8c612f769d33eaf01968e300c72a02a3d227992f186d5132f333aba9fb23302193370c7d4ea0cd180de88a6c7285637a6d2b621531d",
-          "sha256": "4541ba4efcc5abaabb3e4418b65d74785663075bce2c630e0f544e2609307628",
-          "sha1": "bb893694d397b64e2e89bac28e66beb5744a0840",
-          "md5": "22f45a2ecee7c9843247bc9beb807b30"
+          "size": 47812,
+          "sha512": "12ec5338c6a8929092573f6161f20974e77a451763d2b6fced40911a9be5f138451d5a77edf473e1f4503df2a6eb4f19facc7b1d84f12f436156fa571731c9d5",
+          "sha256": "1a5f0c486666883e931c5aa1d6cd6fdac48201efcae1c73c5b1966a2009be372",
+          "sha1": "ae5477796be134049c823c221bf452248c91540b",
+          "md5": "bac3b28616493d78453ae6228cbaace2"
         }
       ]
     }

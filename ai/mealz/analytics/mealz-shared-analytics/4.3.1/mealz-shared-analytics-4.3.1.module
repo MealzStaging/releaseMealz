@@ -49,11 +49,11 @@
         {
           "name": "mealz-shared-analytics-4.3.1.jar",
           "url": "mealz-shared-analytics-4.3.1.jar",
-          "size": 11083,
-          "sha512": "23a10a019060becc9a862ff041ca82cc5c6274ba97fc7372cc3a0448beb8d7c1fbc8c0f778d09de85c40b669fa027ddb03e18c7d49da9e8f20f130114979361e",
-          "sha256": "b8b804caedd81cdac05357e8038823d64d4289740ba44bca99eca38028ebe7d1",
-          "sha1": "d274164ae717bc047778a54b5517607e2aa7d2c0",
-          "md5": "18a04068881bf6cc0d719b490a5ffb2f"
+          "size": 11087,
+          "sha512": "73554dd24e5c7bc9ab9e0779f8cf8063ed6a10cf25d9f70c7493067e6a657f04209b0ba33cc085c213d6e81c034e6b5ed219f92b06ed5f8cd9a5fa74c911d320",
+          "sha256": "4cb237d9bcf8e366bd382248a80953520fff8bf8402ca71a893ab263023e98b6",
+          "sha1": "9ddf54e610387a89b47e2cd6341937e4033e4496",
+          "md5": "db052c2eb8fe210ac5ecceba5d93ef63"
         }
       ]
     },

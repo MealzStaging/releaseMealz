@@ -44,11 +44,11 @@
         {
           "name": "mealz-shared-analytics-js-4.3.1.klib",
           "url": "mealz-shared-analytics-js-4.3.1.klib",
-          "size": 53637,
-          "sha512": "d54764ef449bbf0d898844a6ecefefc7a1c2471d883c1a67d79d4a7fbb2f62f2ec2cab4b0b695b14a24f18f9057cf114b9929fe6dfa6b8a801296907d4f80681",
-          "sha256": "57189a5b8fa86a5a259365624832d25d268d21eec7246b1f366763cb6721bf48",
-          "sha1": "01321bbff9d7a90e26a1d9787fd20e03223e0096",
-          "md5": "d62b95d017afa3ba8c9b0a7df45a66ec"
+          "size": 53774,
+          "sha512": "6c74a3078e8e678630c154970dcd32bb4d736544d76447c9b1a9f9d17212fd19eba936aa495fa1e9e5e01b55a1c3766edb886e125ff6992da714f5bba3f72e1d",
+          "sha256": "4dc8ea604fa613cc00c7fbc637bf8b4fae9a045239a4e0ab574dd65122976efb",
+          "sha1": "e9ef5f2654aea2d89b1a39adad643b68f426e929",
+          "md5": "173e820d5eebba12744f553337fc540e"
         }
       ]
     },
@@ -81,11 +81,11 @@
         {
           "name": "mealz-shared-analytics-js-4.3.1.klib",
           "url": "mealz-shared-analytics-js-4.3.1.klib",
-          "size": 53637,
-          "sha512": "d54764ef449bbf0d898844a6ecefefc7a1c2471d883c1a67d79d4a7fbb2f62f2ec2cab4b0b695b14a24f18f9057cf114b9929fe6dfa6b8a801296907d4f80681",
-          "sha256": "57189a5b8fa86a5a259365624832d25d268d21eec7246b1f366763cb6721bf48",
-          "sha1": "01321bbff9d7a90e26a1d9787fd20e03223e0096",
-          "md5": "d62b95d017afa3ba8c9b0a7df45a66ec"
+          "size": 53774,
+          "sha512": "6c74a3078e8e678630c154970dcd32bb4d736544d76447c9b1a9f9d17212fd19eba936aa495fa1e9e5e01b55a1c3766edb886e125ff6992da714f5bba3f72e1d",
+          "sha256": "4dc8ea604fa613cc00c7fbc637bf8b4fae9a045239a4e0ab574dd65122976efb",
+          "sha1": "e9ef5f2654aea2d89b1a39adad643b68f426e929",
+          "md5": "173e820d5eebba12744f553337fc540e"
         }
       ]
     }

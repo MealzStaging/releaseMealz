@@ -57,11 +57,11 @@
         {
           "name": "mealz-shared-analytics-release.aar",
           "url": "mealz-shared-analytics-android-4.3.1.aar",
-          "size": 45987,
-          "sha512": "2af60ab7566dd3cb3d6890ac61aaa30a8a70d9b8797a49251f1954e9697d10aacc3faa0ee1c22e4a54e1491f92390a1dd4c9b5c497a7dbfd9bb6b1b0c3c6264f",
-          "sha256": "e604e352846852ec54781ed1e0d3fd2fecc0dbd35f3b77a83e33eab38fc5f5f6",
-          "sha1": "b86c69db2d070f07aa6609afc90e0041b01b8e9e",
-          "md5": "2769e23c4c5a4b7c94e9bb1ae06acc20"
+          "size": 46065,
+          "sha512": "b0d0b1eb4ff11db4c31033948e7fde2be460f4366b78a074a7eb847f751b3976d4a40da57b4c296e1449bf03fb4e57f644ee062ca73006e00ee2c31983c21d5d",
+          "sha256": "60f3f9ea18c2fadb879841c41c65d32e3a282ef38edc3f898e7d034df30f5b2c",
+          "sha1": "ac6f2a27e43d85f670d75a9827cb2423c2e1ce66",
+          "md5": "9e39ba5cb4711ad7a683fb4d1408f5e7"
         }
       ]
     },
@@ -163,11 +163,11 @@
         {
           "name": "mealz-shared-analytics-release.aar",
           "url": "mealz-shared-analytics-android-4.3.1.aar",
-          "size": 45987,
-          "sha512": "2af60ab7566dd3cb3d6890ac61aaa30a8a70d9b8797a49251f1954e9697d10aacc3faa0ee1c22e4a54e1491f92390a1dd4c9b5c497a7dbfd9bb6b1b0c3c6264f",
-          "sha256": "e604e352846852ec54781ed1e0d3fd2fecc0dbd35f3b77a83e33eab38fc5f5f6",
-          "sha1": "b86c69db2d070f07aa6609afc90e0041b01b8e9e",
-          "md5": "2769e23c4c5a4b7c94e9bb1ae06acc20"
+          "size": 46065,
+          "sha512": "b0d0b1eb4ff11db4c31033948e7fde2be460f4366b78a074a7eb847f751b3976d4a40da57b4c296e1449bf03fb4e57f644ee062ca73006e00ee2c31983c21d5d",
+          "sha256": "60f3f9ea18c2fadb879841c41c65d32e3a282ef38edc3f898e7d034df30f5b2c",
+          "sha1": "ac6f2a27e43d85f670d75a9827cb2423c2e1ce66",
+          "md5": "9e39ba5cb4711ad7a683fb4d1408f5e7"
         }
       ]
     }

@@ -52,11 +52,11 @@
         {
           "name": "mealz-shared-analytics.klib",
           "url": "mealz-shared-analytics-iosarm64-4.3.1.klib",
-          "size": 54255,
-          "sha512": "5d00922d592bb0958e0654816f643dd1c1862c2bb0a27a5323bf274c85f63e9b3cc03825dc3114b0205413d5711d9087328af3f7f479f446ebfbf180d7402c89",
-          "sha256": "e43564324c100676f86c83f529980981f8cf08fb2f3d453b0474a82f31a8ba37",
-          "sha1": "c5bc76aad5b9fc3374d8b4eaf7ada8938933d693",
-          "md5": "b6d9e9d7384057fa9d398bf0dfa90ed6"
+          "size": 54403,
+          "sha512": "916dea3af0e756b238338dc2bde12109de519428010a6a50b5ea12c655210f5451693be7b700e01477701736504ebe949796c8ea09f230155b16a23c0b8231e4",
+          "sha256": "c882f280215159f684bff5375b73bfbfe158d33e7f1aba87ddee15b3f31c54b2",
+          "sha1": "61d3474b88d1f3e6424790305455453ce6e5c691",
+          "md5": "fb8fee57e7c86fd84eff811ed31bdb0b"
         }
       ]
     },
@@ -98,10 +98,10 @@
           "name": "mealz-shared-analytics-iosarm64-4.3.1-metadata.jar",
           "url": "mealz-shared-analytics-iosarm64-4.3.1-metadata.jar",
           "size": 4911,
-          "sha512": "8e2ae563841302ff06efd00a4a9e6bdc85104c97c96a2633594a9180d9d96d1b868d3e2f7485d3e251e4fd8d97061196d61f69a980da605502fe40ba90903ee7",
-          "sha256": "3455d2890fb21e16dc36a60623d3e834dcaf8dae9b21c67b70f0ad28e42729e8",
-          "sha1": "39490fc69bf38afd658c737811277d7b05224450",
-          "md5": "abd786320ffd87d1eccdf1d906106e4b"
+          "sha512": "dd4f9fba0c5fbbc621c81fba819335cb6a4f3c5e138775e0bcdae895cb2fb4e13dbbd8e7e6ce23f90a75229690cfb9f55dde555ef7de3a69dd9749a0b03b51c4",
+          "sha256": "63d81bd3e4255914bb5bc270ab1fcf86a6a98863d1ae03c5dc91f465c088eafe",
+          "sha1": "832e4cc6d74054704cc7065c16f6ce5d75ba55eb",
+          "md5": "44d79a17989d5d593a266db6d7514b65"
         }
       ]
     }
