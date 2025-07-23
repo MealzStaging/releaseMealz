@@ -1,0 +1,93 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "url": "../../mealz-shared-analytics/4.4.0/mealz-shared-analytics-4.4.0.module",
+    "group": "ai.mealz.analytics",
+    "module": "mealz-shared-analytics",
+    "version": "4.4.0",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.7"
+    }
+  },
+  "variants": [
+    {
+      "name": "jsApiElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-api",
+        "org.jetbrains.kotlin.js.compiler": "ir",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-dom-api-compat",
+          "version": {
+            "requires": "2.0.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.0.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "mealz-shared-analytics-js-4.4.0.klib",
+          "url": "mealz-shared-analytics-js-4.4.0.klib",
+          "size": 54188,
+          "sha512": "352dc838d0995425e26576a6430b59a0458cc91773be0c78459160912117c090631ac9032299367d8a52482c3afbfc42cba437a4035920c092c83422793bb357",
+          "sha256": "bd38ec86defc9d0768ee4301e4487b2d2a4aaca72dc53a7edacaf34f81e1638f",
+          "sha1": "0f674692e5ac23a94935fb4a7b89ae5313f4e213",
+          "md5": "4df6b28e57e6113f43ecb6b3f524e549"
+        }
+      ]
+    },
+    {
+      "name": "jsRuntimeElements-published",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.jvm.environment": "non-jvm",
+        "org.gradle.usage": "kotlin-runtime",
+        "org.jetbrains.kotlin.js.compiler": "ir",
+        "org.jetbrains.kotlin.platform.type": "js"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-dom-api-compat",
+          "version": {
+            "requires": "2.0.10"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib",
+          "version": {
+            "requires": "2.0.10"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "mealz-shared-analytics-js-4.4.0.klib",
+          "url": "mealz-shared-analytics-js-4.4.0.klib",
+          "size": 54188,
+          "sha512": "352dc838d0995425e26576a6430b59a0458cc91773be0c78459160912117c090631ac9032299367d8a52482c3afbfc42cba437a4035920c092c83422793bb357",
+          "sha256": "bd38ec86defc9d0768ee4301e4487b2d2a4aaca72dc53a7edacaf34f81e1638f",
+          "sha1": "0f674692e5ac23a94935fb4a7b89ae5313f4e213",
+          "md5": "4df6b28e57e6113f43ecb6b3f524e549"
+        }
+      ]
+    }
+  ]
+}
